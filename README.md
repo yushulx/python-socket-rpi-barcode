@@ -55,3 +55,6 @@ python rpi.py
 ```
 
 <kbd><img src="https://www.codepool.biz/wp-content/uploads/2019/03/raspberry-pi-barcode-detection.PNG">
+  
+## Blog
+[Moving Heavy Computation from Raspberry Pi to Windows PC](https://www.codepool.biz/raspberry-pi-barcode-heavy-computation-windows.html)
