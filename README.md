@@ -54,3 +54,4 @@ Run `rpi.py` in Raspberry Pi:
 python rpi.py
 ```
 
+<kbd><img src="https://www.codepool.biz/wp-content/uploads/2019/03/raspberry-pi-barcode-detection.PNG">
